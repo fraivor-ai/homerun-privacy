@@ -165,7 +165,7 @@ If this policy changes in a material way (e.g., if new data collection is introd
 For any privacy questions:
 
 **Email:** fraivor@gmail.com
-**App:** HomeRun — Digital Estate Planning
+**App:** HomeRun — Passive Life-Signal Check-In & Automated Digital Inheritance App
 **Developer:** fraivor-ai
 
 ---
