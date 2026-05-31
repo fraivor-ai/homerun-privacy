@@ -5,7 +5,7 @@ title: HomeRun — Privacy Policy
 
 # Privacy Policy — HomeRun
 
-**Effective date:** May 27, 2026
+**Effective date:** May 30, 2026
 **Developer:** fraivor-ai
 **Contact:** fraivor@gmail.com
 
@@ -14,6 +14,18 @@ title: HomeRun — Privacy Policy
 ## The Short Version
 
 HomeRun stores everything on your device and nowhere else. The only time any information leaves your phone is when an absence is detected — at that point, a message is sent directly to the successor(s) you configured. The developer has zero access to your data, ever.
+
+---
+
+## No Account. No Identity.
+
+HomeRun never asks you to create an account. There is no sign-up form, no email address field, no username, and no profile. The developer receives **zero identifying information about you** — not your name, not your phone number, not your email address.
+
+This is an intentional design choice, not an oversight. Because the app stores everything on your device and communicates only point-to-point (your phone → your successor's phone), there is no reason for the developer to know who you are.
+
+Even when you upgrade to Premium, your identity stays private: payment is handled entirely by Apple (App Store) or Google (Google Play). The developer receives only an anonymous transaction receipt confirming a purchase was made — never your name, billing address, or card details.
+
+The only time the developer could ever learn your contact information is if **you** choose to email support at fraivor@gmail.com. That is entirely optional and user-initiated.
 
 ---
 
